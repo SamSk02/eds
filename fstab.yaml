@@ -1,0 +1,4 @@
+mountpoints:
+  "/":
+    url: https://github.com/SamSk02/eds/tree/main/docs
+    root: docs
