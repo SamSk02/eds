@@ -2,4 +2,4 @@ mountpoints:
   "/":
     url: "https://github.com/SamSk02/eds"
     branch: "main"
-    root: "/docs"
+    root: "docs"
