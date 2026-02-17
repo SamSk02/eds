@@ -1,5 +1,5 @@
 mountpoints:
   "/":
-    url: "https://github.com/SamSk02/eds"
+    url: "https://drive.google.com/drive/folders/1OaYAeaCSsHR7uHRVKo-jBvh_EyDtudf8?usp=drive_link"
     branch: "main"
     root: "docs"
